@@ -1,0 +1,15 @@
+{
+  "name": "Reclaiming Xephera",
+  "xwalk_version": "0.0.0104",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon/icon.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ]
+}
