@@ -1,2 +1,16 @@
-<Version 0.0.155>
+<Version 0.0.156>
+/data/Actors.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Animations.json
+/data/Armors.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Classes.json
+/data/CommonEvents.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/CommonEvents.json
+/data/Enemies.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Items.json
+/data/MapInfos.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/MapInfos.json
+/data/Skills.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Skills.json
+/data/States.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/States.json
+/data/System.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/JudgmentGames/ReclaimingXephera/master/Windows/Reclaiming Xephera/www/data/Weapons.json
 <End of Version>
